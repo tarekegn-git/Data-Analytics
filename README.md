@@ -25,4 +25,18 @@ Number of Rows: 3660
 Number of Columns: 8
   
   ![Dataset Organization](https://github.com/user-attachments/assets/6efd16e6-f5a2-4af9-96bb-7e072416c71d)
+
+  1. Average Price per Product Category:  
+     There are seven categories of goods sold in this case of e-commerce business. These are books, clothing, sports, beauty, electronics, home and kitchen, and toys. In this section, we will look into which product category has the highest average price and which one is the cheapest product by using Tableau charts. As shown in the figure below, Clothing items have the highest average price range compared to other categories where as Toys sell for relatively low price ranges in this particular e-commerce shop.  
+     
+    
+![Category Average price](https://github.com/user-attachments/assets/33e22f93-51d2-49f5-b300-a8aac60d8a3c)
+
+  In addition to the above bar chart, we can use the Tableau Chart summary feature to make a closer look into the exact average price range for each category as shown below.   
+  
+   ![Category Average price summary](https://github.com/user-attachments/assets/fad0ca63-00ba-4a98-960a-cab0d84b0a4a)
+
+  Next, we evaluate if all products offer big discount as shown below  
+![Category Dicount Pattern](https://github.com/user-attachments/assets/3a8245a7-6aeb-42be-87da-0f613431ff53)
+
     
